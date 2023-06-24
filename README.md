@@ -6,13 +6,13 @@ Utilizo este perfil como repositório para armazenamento dos meus principais pro
 
 ## Projetos Destacados
 
-- https://github.com/CristyanSouza/service-order: Se trata de um projeto de orndes de serviço para colocar em prática meu aprendizado em criação de APIs REST em Java.
+- https://github.com/CristyanSouza/service-order: Se trata de um projeto de ordens de serviço para colocar em prática meu aprendizado em criação de APIs REST em Java.
 - https://github.com/CristyanSouza/CSFin: Projeto para colocar em prática os aprendizados em Java e Springframework, com o front-end construido em React.
 
 ## Conhecimentos que possuo atualmente:
 
 - Java (como linguagem principal);
-- Programação Orientada a Objetos
+- Programação Orientada a Objetos;
 - Spring Framework;
 - JPA, Hibernate e JDCB para persistência e consulta de dados;
 - MySQL;
@@ -21,7 +21,7 @@ Utilizo este perfil como repositório para armazenamento dos meus principais pro
 - HTML;
 - CSS;
 - JavaScript;
-- GIT;
+- GIT
 
 ## Contato
 
