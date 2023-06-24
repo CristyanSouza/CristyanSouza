@@ -1,16 +1,31 @@
-### Hi there 👋
+## Sobre mim
 
-<!--
-**CristyanSouza/CristyanSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cristyan de Souza trabalho atualmente como Analista de Suporte na empresa Nexti Desenvolvimento de sistemas. 
+Sou estudante de ensino técnico em desenvolvimento de sistemas e dedico boa parte do meu tempo para estudos autodidata através de plataformas como Udemy,Alura e Youtube com o objetivo de atuar profissionalmente com desenvolvimento de sistemas, com preferência à stacks back-end.
+Utilizo este perfil como repositório para armazenamento dos meus principais projetos.
 
-Here are some ideas to get you started:
+## Projetos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://github.com/CristyanSouza/service-order: Se trata de um projeto de orndes de serviço para colocar em prática meu aprendizado em criação de APIs REST em Java.
+- https://github.com/CristyanSouza/CSFin: Projeto para colocar em prática os aprendizados em Java e Springframework, com o front-end construido em React.
+
+## Conhecimentos que possuo atualmente:
+
+- Java (como linguagem principal);
+- Programação Orientada a Objetos
+- Spring Framework;
+- JPA, Hibernate e JDCB para persistência e consulta de dados;
+- MySQL;
+- Criação de consumo de APIs;
+- Metodologias ágeis;
+- HTML;
+- CSS;
+- JavaScript;
+- GIT;
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/cristyan-de-souza-99a003183/
+- Email: cristyansouzas2@gmail.com
+
+Fique à vontade para explorar meus projetos e entrar em contato comigo para qualquer colaboração.
